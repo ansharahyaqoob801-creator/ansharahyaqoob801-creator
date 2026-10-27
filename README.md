@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://github.com/ansharahyaqoob801-creator username=&label=Profile%20views&color=0e75b6&style=flat" alt="ansharahyaqoob801-creator" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansharahyaqoob801-creator" alt="ansharahyaqoob801-creator" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansharahyaqoob801-creator" alt="https:// GitHub.com/ansharahyaqoob801-creator" /></a> </p>
 
 - 🔭 I’m currently working on [ICE CREAM WEBSITE](https://ansharahyaqoob801-creator.github.io/icecream-website/)
 
