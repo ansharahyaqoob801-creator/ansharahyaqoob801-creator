@@ -138,10 +138,10 @@
 ```text
 Frontend Development  ██████████ Building Projects
 HTML & CSS            ██████████ Creating Layouts
-JavaScript            ████████░░ Growing Skills
-Responsive Design     █████████░ Improving
-Backend Development   ███░░░░░░░ Currently Learning
-Full Stack Development ██░░░░░░░░ Future Goal
+JavaScript            ████████░░ So Growing Skills
+Responsive Design     █████████░ Excellent 
+Backend and full stack development  ███░░░░░░░ Currently Learning
+Software Engineer██░░░░░░░░ Future Goal
 ```
 
 ---
