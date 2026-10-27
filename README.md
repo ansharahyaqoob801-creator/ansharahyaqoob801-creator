@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ansharahyaqoob</h1>
 <h3 align="center">A passionate frontend developer from Pakistan and also becoming full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/ansharahyaqoob801-creator&label=Profile%20views&color=0e75b6&style=flat" alt="ansharahyaqoob801-creator" /> </p>
+<p align="left"> <img src="https://github.com/ansharahyaqoob801-creator username=&label=Profile%20views&color=0e75b6&style=flat" alt="ansharahyaqoob801-creator" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ansharahyaqoob801-creator" alt="ansharahyaqoob801-creator" /></a> </p>
 
