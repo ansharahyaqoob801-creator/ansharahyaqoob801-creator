@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ansharah Yaqoob</h1>
 
 <h3 align="center">
-  💻 Frontend Developer | 🌱 Aspiring Full Stack Developer | 🇵🇰 Pakistan
+  💻 Frontend Developer | 🌱 Will Software engineer| 🇵🇰 Pakistan
 </h3>
 
 <p align="center">
@@ -78,23 +78,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ansharahyaqoob801-creator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub profile trophies" />
-</p>
-
----
-
-## 📈 Contribution Activity Graph
-
-<p align="center">
-  <a href="https://github.com/ansharahyaqoob801-creator">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansharahyaqoob801-creator&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
-  </a>
-</p>
-
----
 
 ## 📅 Contribution Calendar
 
