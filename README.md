@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ansharah Yaqoob</h1>
 
 <h3 align="center">
-  💻 Frontend Developer | 🌱 Will Software engineer| 🇵🇰 Pakistan
+  💻 Frontend Developer | 🌱 aspiring Software engineer| 🇵🇰 Pakistan
 </h3>
 
 <p align="center">
