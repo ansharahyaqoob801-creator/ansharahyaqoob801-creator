@@ -92,7 +92,7 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 
 <p>A creative website project showcasing modern frontend design and interactive web experiences.</p>
 
-<a href="https://www.linkedin.com/in/ansharah-yaqoob-5008a2434/tab=repositories">
+<a href="https://lnkd.in/p/d38XEPA7tab=repositories">
 <img src="https://img.shields.io/badge/🏖️_BEAUTIFUL_BEACHES-EXPLORE-LINKEDIN-DB2777?style=for-the-badge" alt="Beautiful Beaches project repositories"/>
 </a>
 
