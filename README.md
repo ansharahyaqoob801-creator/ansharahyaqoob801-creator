@@ -92,7 +92,7 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 <p>A creative website project showcasing modern frontend design and interactive web experiences.</p>
 
 <a href="https://github.com/ansharahyaqoob801-creator?tab=repositories">
-<img src="https://img.shields.io/badge/🏖️_BEAUTIFUL_BEACHES-EXPLORE_REPOSITORIES-DB2777?style=for-the-badge" alt="Beautiful Beaches project repositories"/>
+<img src="https://img.shields.io/badge/🏖️_BEAUTIFUL_BEACHES-EXPLORE-LINKEDIN-DB2777?style=for-the-badge" alt="Beautiful Beaches project repositories"/>
 </a>
 
 <p>A beach discovery website concept featuring destinations, images, attractions, and responsive layouts.</p>
@@ -105,16 +105,12 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 
 ---
 
-## 📦 Repository & Star Statistics
+## 📦 Repositories 
 
 <div align="center">
 
 <a href="https://github.com/ansharahyaqoob801-creator?tab=repositories">
 <img src="https://img.shields.io/badge/Explore-Public%20Repositories-6D28D9?style=for-the-badge&logo=github" alt="Explore repositories"/>
-</a>
-
-<a href="https://github.com/ansharahyaqoob801-creator?tab=stars">
-<img src="https://img.shields.io/badge/Explore-Received%20Stars-F59E0B?style=for-the-badge&logo=github" alt="Explore starred repositories"/>
 </a>
 
 </div>
