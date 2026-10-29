@@ -68,18 +68,6 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 
 ---
 
-## 📈 Contribution Activity Graph
-
-<div align="center">
-
-<a href="https://github.com/ansharahyaqoob801-creator">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ansharahyaqoob801-creator&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph"/>
-</a>
-
-</div>
-
----
-
 ## 🗓️ Contribution Calendar
 
 <div align="center">
@@ -90,13 +78,6 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=ansharahyaqoob801-creator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" alt="GitHub trophies"/>
-
-</div>
 
 ---
 
