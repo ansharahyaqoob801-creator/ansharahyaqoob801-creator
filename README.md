@@ -82,21 +82,6 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://ansharahyaqoob801-creator.github.io/icecream-website/">
-<img src="https://img.shields.io/badge/🍦_ICE_CREAM_WEBSITE-LIVE_DEMO-8B5CF6?style=for-the-badge" alt="Ice Cream Website"/>
-</a>
-
-<p>A creative website project showcasing modern frontend design and interactive web experiences.</p>
-
-<a href="https://lnkd.in/p/d38XEPA7/">
-<img src="https://img.shields.io/badge/🏖️_BEAUTIFUL_BEACHES-EXPLORE-LINKEDIN-DB2777?style=for-the-badge" alt="Beautiful Beaches project repositories"/>
-</a>
-
-<p>A beach discovery website concept featuring destinations, images, attractions, and responsive layouts.</p>
 
 <a href="https://github.com/ansharahyaqoob801-creator?tab=repositories">
 <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github" alt="View all projects"/>
