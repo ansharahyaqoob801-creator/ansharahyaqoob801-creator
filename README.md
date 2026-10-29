@@ -35,6 +35,7 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 - 🎨 Interested in modern UI design, animations, and responsive interfaces
 - 🧰 Technologies: HTML, CSS, JavaScript, Bootstrap, and jQuery
 - 🎯 Goal: Become a skilled full stack software developer
+- #SOFTWARE ENGINEER 
 - 📫 Contact: [ansharahyaqoob801@gmail.com](mailto:ansharahyaqoob801@gmail.com)
 
 ---
@@ -91,7 +92,7 @@ I'm **Ansharah Yaqoob**, a frontend developer from Pakistan passionate about cre
 
 <p>A creative website project showcasing modern frontend design and interactive web experiences.</p>
 
-<a href="https://github.com/ansharahyaqoob801-creator?tab=repositories">
+<a href="https://www.linkedin.com/in/ansharah-yaqoob-5008a2434/tab=repositories">
 <img src="https://img.shields.io/badge/🏖️_BEAUTIFUL_BEACHES-EXPLORE-LINKEDIN-DB2777?style=for-the-badge" alt="Beautiful Beaches project repositories"/>
 </a>
 
