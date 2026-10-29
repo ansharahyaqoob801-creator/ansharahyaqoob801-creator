@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6D28D9,100:DB2777&height=200&section=header&text=Ansharah%20Yaqoob&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Full%20Stack%20Developer&descSize=14&descAlignY=58" alt="Profile banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:6D28D9,100:DB2777&height=200&section=header&text=Ansharah%20Yaqoob&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Aspiring%20Software%20Engineer%20&descSize=14&descAlignY=58" alt="Profile banner"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Creating+responsive+web+experiences;Exploring+backend+development;Learning%2C+building%2C+and+growing" alt="Animated introduction"/>
