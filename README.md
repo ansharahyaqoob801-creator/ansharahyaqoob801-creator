@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ansharah Yaqoob</h1>
 
 <h3 align="center">
-  💻 Frontend Developer | 🌱 aspiring Software engineer| 🇵🇰 Pakistan
+  💻 Frontend Developer | 🌱 Aspiring Full Stack Developer | 🇵🇰 Pakistan
 </h3>
 
 <p align="center">
@@ -78,6 +78,17 @@
 
 ---
 
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/ansharahyaqoob801-creator">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansharahyaqoob801-creator&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  </a>
+</p>
+
+---
 
 ## 📅 Contribution Calendar
 
@@ -138,10 +149,10 @@
 ```text
 Frontend Development  ██████████ Building Projects
 HTML & CSS            ██████████ Creating Layouts
-JavaScript            ████████░░ So Growing Skills
-Responsive Design     █████████░ Excellent 
-Backend and full stack development  ███░░░░░░░ Currently Learning
-Software Engineer██░░░░░░░░ Future Goal
+JavaScript            ████████░░ Growing Skills
+Responsive Design     █████████░ Improving
+Backend Development   ███░░░░░░░ Currently Learning
+Full Stack Development ██░░░░░░░░ Future Goal
 ```
 
 ---
